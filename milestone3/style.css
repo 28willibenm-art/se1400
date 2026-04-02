@@ -1,6 +1,6 @@
 #wrapper {
     display: grid;
-    grid-template-collumns: minmax(0px, 1fr) repeat(6, minmax(0, 175px)) minmax(0px, 1fr)
+    grid-template-columns: minmax(0px, 1fr) repeat(6, minmax(0, 175px)) minmax(0px, 1fr)
 }
 
 #orangebox {
